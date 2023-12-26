@@ -4,6 +4,8 @@
   ### Websites for Styling, Images and fonts.
   - Font Awesome Icons
   - Unsplash
+  ## Websites for Practicing and UI inspo
+  - Frontend Practice
 ## What needs to be changed / worked on 
   1. Responsiveness.
   2. Not leaving the responsiveness to the end after finishing the project.
