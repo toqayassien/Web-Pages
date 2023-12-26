@@ -195,10 +195,11 @@ iframe{
 }
 #blue{
     background-color: #b1c5ff;
+    /* background-color: black; */
     /* position: relative;
     left: 50vw; */
     width: 40vw;
-    height: 35vw;
+    height: 30vw;
     /* z-index: -1; */
 }
 #last{
@@ -210,9 +211,9 @@ iframe{
 #final{
     display: block;
     margin: auto;
-    width: 60%;
+    width: 70%;
     text-align: left;
-    font-size: 25px;
+    font-size: 2vw;
     padding-top: 5vw;
     font-weight: bold;
 }
