@@ -1,10 +1,10 @@
 ## Resources, FrameWorks and Libraries Used
-  ### FrameWorks
+  ### 1. FrameWorks
   - Bootstrap
-  ### Websites for Styling, Images and fonts.
+  ### 2. Websites for Styling, Images and fonts.
   - Font Awesome Icons
   - Unsplash
-  ## Websites for Practicing and UI inspo
+  ## 3. Websites for Practicing and UI inspo
   - Frontend Practice
 ## What needs to be changed / worked on 
   1. Responsiveness.
